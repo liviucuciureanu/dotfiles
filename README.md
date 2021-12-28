@@ -3,7 +3,7 @@
 Portable dotfiles for a consistent familiar workflow
 
 ``` bash
-git clone https://github.com/pcuci/dotfiles.git ~/.dotfiles
+git clone https://github.com/liviucuciureanu/dotfiles.git ~/.dotfiles
 ```
 
 Install. Might need to delete some pre-generated files like `~/.profile`
@@ -37,7 +37,7 @@ Update git remotes to use ssh.
 
 ``` bash
 cd ~/.dotfiles
-git remote set-url origin git@github.com:pcuci/dotfiles.git
+git remote set-url origin git@github.com:liviucuciureanu/dotfiles.git
 git remote -v # to verify
 ```
 
